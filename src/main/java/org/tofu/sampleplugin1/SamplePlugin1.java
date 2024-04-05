@@ -7,6 +7,7 @@ public final class SamplePlugin1 extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        new studySpigot(this);
 
     }
 
